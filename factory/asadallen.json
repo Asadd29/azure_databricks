@@ -1,0 +1,15 @@
+{
+	"name": "asadallen",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cf8e196c-6665-46e7-8265-3d395198e1e7",
+		"tenantId": "c8a12210-d6fc-4d35-9d0b-75db3571e0d7"
+	}
+}
